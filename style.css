@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(232, 228, 223);
+}
+#container {
+    background-color: cyan;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+.product-details {
+    opacity: ;
+    box-shadow: 1px 1px black;
+    padding: 20px 20px 20px 20px;
+
+}
+
